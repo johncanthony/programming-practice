@@ -46,6 +46,7 @@ class board:
 			self.board[x][y]=9
 			self.board[x][y]=self.board[x-1][y]
         		self.board[x-1][y]=9
+			continue 
 		x=x-1
 		
 
