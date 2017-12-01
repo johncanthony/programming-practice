@@ -1,4 +1,4 @@
-# How to .vimrc, with your host Kirby.
+# How to .vimrc, with your host [Kirby](https://github.com/kirbpowell).
 
 Oh, Hello. I didn't see you there. Well, now that you're here, I suppose that there's nothing else to do but teach you how, precisely, you can live that #ViMLyfe.
 
